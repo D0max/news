@@ -1,0 +1,19 @@
+{
+  "news": [
+    { "id": 1,
+      "title": "some",
+      "image": "http://mountvernonohio.org/wp-content/uploads/2016/07/online-news.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A architecto, aspernatur assumenda ea iste labore magnam nobis officia quidem similique? Aperiam dolor dolores eveniet id impedit iure necessitatibus quibusdam reprehenderit. Error fuga molestias nam officia quasi. Architecto deleniti doloremque ea eaque eos, error exercitationem fugiat id magni necessitatibus neque quas tempore, totam ut voluptatibus. Accusantium aut dicta ipsam numquam pariatur praesentium reprehenderit, tempora? Accusamus, ad adipisci corporis debitis earum error eum eveniet excepturi fugit incidunt iure laborum nesciunt omnis repellat saepe temporibus voluptate. Ad corporis ducimus ea eius, illo ipsam itaque officiis sunt vel voluptates! Amet asperiores illum itaque vel!"
+    },
+    { "id": 2,
+      "title": "New place in Kyrgyzstan",
+      "image": "http://www.gazprom.com/f/posts/53/031230/24575.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam blanditiis deleniti doloribus harum itaque molestias obcaecati placeat praesentium quasi, repellat veritatis, voluptatum? Alias atque aut blanditiis commodi consequuntur cupiditate distinctio dolore eligendi enim, excepturi harum id illum impedit, ipsam iure maxime odio officia praesentium quo suscipit velit veniam veritatis voluptas voluptatem voluptates. Accusantium adipisci amet aut culpa cum delectus ducimus eius enim eum illo nesciunt non nulla omnis praesentium, quas quidem ratione recusandae repudiandae rerum, sit temporibus velit vitae voluptas? Facilis laboriosam repellendus sequi sunt temporibus. Accusantium, asperiores cumque dolores earum explicabo illum in ipsam laboriosam minus nobis nostrum numquam praesentium quisquam ratione sapiente vel veniam. Asperiores cum dolore ea error, facilis harum impedit itaque obcaecati odit officia officiis qui sed sint vel veniam. At exercitationem libero quos rerum veritatis! Accusamus animi beatae consequuntur corporis debitis deserunt dolor doloribus ea eaque, eos est facere fugiat iusto molestias mollitia natus porro quae quasi qui reprehenderit sed sint tenetur ullam velit voluptatem voluptatibus voluptatum! Consequatur deleniti eligendi ipsum maiores nobis perspiciatis. Illo minus molestiae officia perferendis quae quia quod repellendus rerum similique velit. Animi cumque modi omnis! Architecto delectus deserunt distinctio inventore mollitia, nesciunt nobis perspiciatis porro quaerat, repellendus saepe similique voluptatum!"
+    },
+    { "id": 3,
+      "title": "New apple product",
+      "image": "https://pbs.twimg.com/profile_images/1110319067280269312/iEqpsbUA_400x400.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus adipisci asperiores at aut cumque delectus, dolore eveniet ex illum laboriosam nam necessitatibus neque non optio quas quisquam quo rem temporibus vitae voluptatum. Animi aut ea hic ipsum, nihil odio tenetur? Accusantium adipisci deleniti, deserunt laborum obcaecati voluptatem? Aliquid at, aut doloremque in quam quisquam repellat. A adipisci, aliquid amet atque autem cum distinctio doloribus ducimus earum esse eveniet explicabo in ipsam ipsum labore laudantium minima modi neque nobis praesentium quae quidem recusandae reprehenderit soluta tempore temporibus ullam, veniam voluptas voluptatem, voluptates. Atque deleniti magni maiores numquam quod reiciendis sapiente sed sequi, voluptatem voluptatum! Ad asperiores blanditiis eius facilis fugiat modi non reiciendis suscipit tenetur voluptate. At cumque hic in itaque libero nisi qui quo voluptates!"
+    }
+  ]
+}
